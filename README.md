@@ -55,8 +55,3 @@ After that you can see the "token name", "token abbreviation", and the "total su
 
 Kshitij Kumar 
 https://www.linkedin.com/in/kshitij-kumar-733a72270/
-
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details
